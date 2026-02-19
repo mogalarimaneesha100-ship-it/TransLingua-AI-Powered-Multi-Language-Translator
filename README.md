@@ -1,1 +1,1 @@
-Translingua AI Powered Multi Language Translator
+Translingua-AI-Powered-Multi-Language-Translator
